@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Atom for PC | Atom for Windows plugin with Atom for PC | Atom for Windows custom Plugin: syntax-highlighting & Git-integration. Featuring syntax-highlighting and
 
 
 
